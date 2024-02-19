@@ -1,0 +1,96 @@
+{
+  "uuid": "67eca499e86e86df893f316c09fe6e29",
+  "path": "Offline/ButtonWall_connector",
+  "name": "ButtonWall_connector",
+  "content": "",
+  "created_at": "2023-11-22 18:14:23",
+  "updated_at": "2023-11-22 22:08:17",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "f40bb6cf3a8a42b15f842e0c4d7bacbb",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "680754c52da7406893a544384f480bda": 1,
+        "198312cce5314b2a8c214469dfe7f85e": 4
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "ZX-IDC2.54-2-7PWZ",
+          1,
+          "IDC-TH_14P-P2.54_ZX-IDC2.54-2-7PWZ",
+          "U1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C7501251",
+            "Manufacturer": "Megastar(兆星)",
+            "Manufacturer Part": "ZX-IDC2.54-2-7PWZ",
+            "Contributor": "lcsc",
+            "link": "https://lcsc.com/eda_search?q=C7501251&%26type=1&ref=editor",
+            "spiceSymbolName": "ZX-IDC2.54-2-7PWZ",
+            "puuid": "4bea9a4154ac4b00b60cd3ad5a5b0864",
+            "uuid": "680754c52da7406893a544384f480bda"
+          }
+        ],
+        [
+          "7P pads",
+          4,
+          "7P PADS",
+          "U2,U3,U4,U5",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier": "",
+            "Supplier Part": "",
+            "link": "",
+            "Contributor": "rimvydas.lazdauskas",
+            "spiceSymbolName": "7P pads",
+            "puuid": "d83cd30ea6074db9b99bd101bfe3304d",
+            "uuid": "198312cce5314b2a8c214469dfe7f85e"
+          }
+        ]
+      ],
+      "updateTime": 1700682809,
+      "createTime": 1700669664,
+      "histories": [],
+      "created_at": "2023-11-22 18:14:24",
+      "updated_at": "2023-11-22 21:53:29"
+    },
+    {
+      "uuid": "416b9a8221ec41d9b779708c665c41a2",
+      "puuid": "67eca499e86e86df893f316c09fe6e29",
+      "title": "PCB_ButtonWall_connector",
+      "filename": "PCB_ButtonWall_connector.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d83cd30ea6074db9b99bd101bfe3304d": 4,
+        "4bea9a4154ac4b00b60cd3ad5a5b0864": 1
+      },
+      "BOM": [],
+      "updateTime": 1700683697,
+      "createTime": 1700674268,
+      "histories": [],
+      "created_at": "2023-11-22 19:31:08",
+      "updated_at": "2023-11-22 22:08:17"
+    }
+  ],
+  "sort": [],
+  "title": "ButtonWall_connector",
+  "foldername": "ButtonWall_connector",
+  "schfilename": "ButtonWall_connector.json",
+  "schfilemtime": 1700682809841
+}

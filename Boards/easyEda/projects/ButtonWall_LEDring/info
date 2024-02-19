@@ -1,0 +1,114 @@
+{
+  "uuid": "5d74b627eeb27e7dfb53dc69630f8667",
+  "path": "Offline/ButtonWall_LEDring",
+  "name": "ButtonWall_LEDring",
+  "content": "",
+  "created_at": "2024-01-02 17:41:57",
+  "updated_at": "2024-01-20 19:02:48",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "b57486ba5a418fc53d48d42d015f1722",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ca94110f4544769d36adda4b0515e409": 8,
+        "ca04a7bcfb904d72afd489426bea1aa9": 1,
+        "f0236a8022f64f3da5d82a1650fe24d3": 8
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          8,
+          "C0402",
+          "C1,C2,C3,C4,C5,C6,C7,C8",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer Part": "CL05B104KO5NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier Part": "C1525",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "CL05B104KO5NNNC",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "ca94110f4544769d36adda4b0515e409"
+          }
+        ],
+        [
+          "XL-5050RGBC-WS2812B",
+          8,
+          "LED-SMD_4P-L5.0-W5.0-BL_XL-5050RGBC",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2843785",
+            "Manufacturer": "XINGLIGHT(成兴光)",
+            "Manufacturer Part": "XL-5050RGBC-WS2812B",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "XL-5050RGBC-WS2812B",
+            "puuid": "b55714c828764ab8ba5599ca60f132ba",
+            "uuid": "f0236a8022f64f3da5d82a1650fe24d3"
+          }
+        ],
+        [
+          "4pad",
+          1,
+          "4PAD",
+          "U1",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier": "",
+            "Supplier Part": "",
+            "link": "",
+            "Contributor": "rimvydas.lazdauskas",
+            "spiceSymbolName": "4pad",
+            "puuid": "f12d8f5c1ca74f2682a429bae05a5cd8",
+            "uuid": "ca04a7bcfb904d72afd489426bea1aa9"
+          }
+        ]
+      ],
+      "updateTime": 1705768051,
+      "createTime": 1704210118,
+      "histories": [],
+      "created_at": "2024-01-02 17:41:58",
+      "updated_at": "2024-01-20 18:27:31"
+    },
+    {
+      "uuid": "b399b963380d1febc6422f2f9d5a0176",
+      "puuid": "5d74b627eeb27e7dfb53dc69630f8667",
+      "title": "PCB_ButtonWall_LEDring",
+      "filename": "PCB_ButtonWall_LEDring.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0821ed6ea50c44f4909e4be7610e4198": 8,
+        "f12d8f5c1ca74f2682a429bae05a5cd8": 1,
+        "b55714c828764ab8ba5599ca60f132ba": 8
+      },
+      "BOM": [],
+      "updateTime": 1705770168,
+      "createTime": 1704212894,
+      "histories": [],
+      "created_at": "2024-01-02 18:28:14",
+      "updated_at": "2024-01-20 19:02:48"
+    }
+  ],
+  "sort": [],
+  "title": "ButtonWall_LEDring",
+  "foldername": "ButtonWall_LEDring",
+  "schfilename": "ButtonWall_LEDring.json",
+  "schfilemtime": 1705768051881
+}
