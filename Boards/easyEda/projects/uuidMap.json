@@ -4,5 +4,8 @@
   "416b9a8221ec41d9b779708c665c41a2": "ButtonWall_connector\\PCB_ButtonWall_connector.json",
   "5d74b627eeb27e7dfb53dc69630f8667": "ButtonWall_LEDring",
   "b57486ba5a418fc53d48d42d015f1722": "ButtonWall_LEDring\\ButtonWall_LEDring.json?Sheet_1",
-  "b399b963380d1febc6422f2f9d5a0176": "ButtonWall_LEDring\\PCB_ButtonWall_LEDring.json"
+  "b399b963380d1febc6422f2f9d5a0176": "ButtonWall_LEDring\\PCB_ButtonWall_LEDring.json",
+  "e955e7f31f8950f6122ce6ff460ad665": "PixelGrid_Controller",
+  "8e7f5317902db5565f5a399023706329": "PixelGrid_Controller\\PixelGrid_Controller.json?Sheet_1",
+  "86e6781d864e53a3747927e48dab39b0": "PixelGrid_Controller\\PCB_PixelGrid_Controller.json"
 }

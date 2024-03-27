@@ -1,0 +1,316 @@
+{
+  "uuid": "e955e7f31f8950f6122ce6ff460ad665",
+  "path": "Offline/PixelGrid_Controller",
+  "name": "PixelGrid_Controller",
+  "content": "",
+  "created_at": "2024-03-17 11:56:11",
+  "updated_at": "2024-03-27 20:43:02",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "8e7f5317902db5565f5a399023706329",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "7d70a130ca04071fe1865a309d6c2e29": 1,
+        "174fc9d3f6c85723c8c5def63b722ca6": 3,
+        "809ea6d42b8850446cbcaa95e6d77cea": 3,
+        "588dac9f81df8f83843513972963b454": 1,
+        "3d033fcb6d334c25b65a754834cf5aaf": 1,
+        "b1d30d497d224ba09bec7e2c6ad65229": 1,
+        "776fa0316e7c39fb77607054956fed3c": 1,
+        "b210af5a1436310a86e8b108e2e5a90b": 3,
+        "3f69fb7874b2264b31c6cd70d022e987": 2,
+        "bdea432cad40be0e7998e026eafc1b06": 14,
+        "584d673271dd43738fb1ad2dd2772015": 1,
+        "e67209cada5c494e9f70f3591c005687": 1,
+        "3fc2698466c0406995a334450c900150": 1,
+        "2753c81794018bf72fa0085808faae76": 2,
+        "1181b382f8fd47439f3644027eff9642": 10
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "10uF",
+          1,
+          "C0603",
+          "C1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Manufacturer Part": "CL10A106KP8NNNC",
+            "Supplier Part": "C19702",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "CL10A106KP8NNNC",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "3d033fcb6d334c25b65a754834cf5aaf"
+          }
+        ],
+        [
+          "22uF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Manufacturer Part": "CL10A226MQ8NRNC",
+            "Supplier Part": "C59461",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "CL10A226MQ8NRNC",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "b1d30d497d224ba09bec7e2c6ad65229"
+          }
+        ],
+        [
+          "100nF",
+          14,
+          "C0805",
+          "C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer Part": "CL21B104KCFNNNE",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier Part": "C28233",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "CL21B104KCFNNNE",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "bdea432cad40be0e7998e026eafc1b06"
+          }
+        ],
+        [
+          "20pF",
+          2,
+          "C0603",
+          "C17,C18",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer Part": "CL10C200JB8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier Part": "C1648",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "CL10C200JB8NNNC",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "2753c81794018bf72fa0085808faae76"
+          }
+        ],
+        [
+          "0805G (Green)",
+          3,
+          "LED0805-R-RD",
+          "LED1,LED2,LED3",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "KENTO",
+            "Manufacturer Part": "KT-0805G",
+            "Supplier Part": "C2297",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "0805G (Green)",
+            "puuid": "82605a93a0be4c79a27d82f67f2aca29",
+            "uuid": "174fc9d3f6c85723c8c5def63b722ca6"
+          }
+        ],
+        [
+          "WJ126V-5.0-2P",
+          2,
+          "CONN-TH_WJ126V-5.0-2P",
+          "P1,P2",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "KANGNEX(康奈克斯电气)",
+            "Manufacturer Part": "WJ126V-5.0-2P",
+            "Supplier Part": "C8404",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "WJ126V-5.0-2P",
+            "puuid": "062b3c1ca40e463696708e6a448b475e",
+            "uuid": "3f69fb7874b2264b31c6cd70d022e987"
+          }
+        ],
+        [
+          "510Ω",
+          3,
+          "R0603",
+          "R1,R2,R3",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Manufacturer Part": "0603WAF5100T5E",
+            "Supplier Part": "C23193",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "0603WAF5100T5E",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "809ea6d42b8850446cbcaa95e6d77cea"
+          }
+        ],
+        [
+          "10kΩ",
+          3,
+          "R0603",
+          "R4,R5,R6",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Manufacturer Part": "0603WAF1002T5E",
+            "Supplier Part": "C25804",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "0603WAF1002T5E",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "b210af5a1436310a86e8b108e2e5a90b"
+          }
+        ],
+        [
+          "TS-1187A-B-A-B",
+          1,
+          "SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2",
+          "SW1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C318884",
+            "Manufacturer": "XKB Connectivity(中国星坤)",
+            "Manufacturer Part": "TS-1187A-B-A-B",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "TS-1187A-B-A-B",
+            "puuid": "c35bad1cd8654778a92d4d3124fa62da",
+            "uuid": "584d673271dd43738fb1ad2dd2772015"
+          }
+        ],
+        [
+          "STM32F103ZET6",
+          1,
+          "LQFP-144_L20.0-W20.0-P0.50-LS22.0-BL",
+          "U1",
+          {
+            "tags": "STM32",
+            "timeStamp": "1465889481",
+            "subpart_no": "3",
+            "Supplier Part": "C8287",
+            "Supplier": "LCSC",
+            "Manufacturer": "ST(意法半导体)",
+            "Manufacturer Part": "STM32F103ZET6",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "STM32F103ZET6",
+            "puuid": "40737a1a22784dc0b5c4c8f239e41340",
+            "uuid": "7d70a130ca04071fe1865a309d6c2e29"
+          }
+        ],
+        [
+          "AMS1117-3.3",
+          1,
+          "SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR",
+          "U2",
+          {
+            "sourceId": "dwIGgezVh",
+            "timeStamp": "1476261164",
+            "Supplier": "LCSC",
+            "Manufacturer": "AMS",
+            "Manufacturer Part": "AMS1117-3.3",
+            "Supplier Part": "C6186",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "AMS1117-3.3",
+            "puuid": "02ae667aca734971be8a5f58143dd564",
+            "uuid": "588dac9f81df8f83843513972963b454"
+          }
+        ],
+        [
+          "SN65HVD230DR",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U3",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "TI(德州仪器)",
+            "Manufacturer Part": "SN65HVD230DR",
+            "Supplier Part": "C12084",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "SN65HVD230DR",
+            "puuid": "806a55eb4d3c40ab838f70f86785d85e",
+            "uuid": "776fa0316e7c39fb77607054956fed3c"
+          }
+        ],
+        [
+          "HY2541WV-N-2X7P",
+          10,
+          "HDR-TH_14P-P2.54-V-F-R2-C7-S2.54-2",
+          "U5,U6,U7,U8,U9,U10,U11,U12,U13,U14",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C17179454",
+            "Manufacturer": "HanElectricity(瀚源)",
+            "Manufacturer Part": "HY2541WV-N-2x7P",
+            "Contributor": "lcsc",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "HY2541WV-N-2X7P",
+            "puuid": "3071716545954edda9ec9d9f11014b81",
+            "uuid": "1181b382f8fd47439f3644027eff9642"
+          }
+        ],
+        [
+          "8MHz",
+          1,
+          "CRYSTAL-SMD_L5.0-W3.2",
+          "X1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "YXC(扬兴晶振)",
+            "Manufacturer Part": "X50328MSB2GI",
+            "Supplier Part": "C115962",
+            "JLCPCB Part Class": "Basic Part",
+            "spiceSymbolName": "X50328MSB2GI",
+            "puuid": "2d90d3e618124133a077d783c2d5f05f",
+            "uuid": "3fc2698466c0406995a334450c900150"
+          }
+        ]
+      ],
+      "updateTime": 1711189342,
+      "createTime": 1710669372,
+      "histories": [],
+      "created_at": "2024-03-17 11:56:12",
+      "updated_at": "2024-03-23 12:22:22"
+    },
+    {
+      "uuid": "86e6781d864e53a3747927e48dab39b0",
+      "puuid": "e955e7f31f8950f6122ce6ff460ad665",
+      "title": "PCB_PixelGrid_Controller",
+      "filename": "PCB_PixelGrid_Controller.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 4,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 14,
+        "82605a93a0be4c79a27d82f67f2aca29": 3,
+        "062b3c1ca40e463696708e6a448b475e": 2,
+        "398691f1f785460098bbe5ee6590333c": 6,
+        "c35bad1cd8654778a92d4d3124fa62da": 1,
+        "40737a1a22784dc0b5c4c8f239e41340": 1,
+        "02ae667aca734971be8a5f58143dd564": 1,
+        "806a55eb4d3c40ab838f70f86785d85e": 1,
+        "f4affd274d544b22b2f8a9af6af94955": 1,
+        "3071716545954edda9ec9d9f11014b81": 10,
+        "2d90d3e618124133a077d783c2d5f05f": 1
+      },
+      "BOM": [],
+      "updateTime": 1711564982,
+      "createTime": 1711185792,
+      "histories": [],
+      "created_at": "2024-03-23 11:23:12",
+      "updated_at": "2024-03-27 20:43:02"
+    }
+  ],
+  "sort": [],
+  "title": "PixelGrid_Controller",
+  "foldername": "PixelGrid_Controller",
+  "schfilename": "PixelGrid_Controller.json",
+  "schfilemtime": 1711189342109
+}
