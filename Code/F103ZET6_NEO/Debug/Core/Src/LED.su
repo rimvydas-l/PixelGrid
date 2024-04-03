@@ -1,0 +1,9 @@
+../Core/Src/LED.c:19:6:SetModuleColor	24	static
+../Core/Src/LED.c:27:6:SetModuleColorP	24	static
+../Core/Src/LED.c:35:6:SetPixelColor	24	static
+../Core/Src/LED.c:43:6:SetPixelColorP	24	static
+../Core/Src/LED.c:51:6:SetLedColorP	16	static
+../Core/Src/LED.c:64:6:SetLedColor	16	static
+../Core/Src/LED.c:79:6:InitModule	24	static
+../Core/Src/LED.c:91:6:UpdateModuleColor	24	static
+../Core/Src/LED.c:119:6:UpdateModule	16	static

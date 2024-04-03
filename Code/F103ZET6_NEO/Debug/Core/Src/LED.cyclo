@@ -1,0 +1,9 @@
+../Core/Src/LED.c:19:6:SetModuleColor	2
+../Core/Src/LED.c:27:6:SetModuleColorP	2
+../Core/Src/LED.c:35:6:SetPixelColor	2
+../Core/Src/LED.c:43:6:SetPixelColorP	2
+../Core/Src/LED.c:51:6:SetLedColorP	1
+../Core/Src/LED.c:64:6:SetLedColor	1
+../Core/Src/LED.c:79:6:InitModule	1
+../Core/Src/LED.c:91:6:UpdateModuleColor	5
+../Core/Src/LED.c:119:6:UpdateModule	2
